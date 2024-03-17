@@ -33,3 +33,27 @@ Reducir la incidencia de incendios forestales podría ayudar a conservar la biod
 - ¿Cuál es la tendencia de los incendios forestales a lo largo del tiempo?
 - ¿Cuál es el impacto económico de los incendios forestales en términos de pérdida de metros cuadrados y recursos utilizados para la extinción?
 - ¿Hay alguna relación entre la causa de los incendios y la ubicación geográfica (municipio/provincia)?
+
+
+## Instalar dependencias:
+- Crea un entorno virtual (opcional pero recomendado)
+    ```bash
+        python -m venv nombre_de_tu_entorno
+    ```
+
+  - Activa el entorno virtual:
+
+    **En Windows:**
+    ```bash
+        nombre_de_tu_entorno\Scripts\activate
+    ```
+    **En macOS y Linux:**
+    ```bash
+       source nombre_de_tu_entorno/bin/activate
+    ```
+
+- Instala las dependencias del proyecto:
+    ```bash
+        pip install -r requirements.txt
+    ```
+Con estos pasos, todas las dependencias necesarias para ejecutar el proyecto se instalarán en tu entorno virtual. Recuerda que es una buena práctica utilizar un entorno virtual para evitar conflictos entre las dependencias de diferentes proyectos.
