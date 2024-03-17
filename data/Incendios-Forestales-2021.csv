@@ -1,0 +1,251 @@
+,no.,Municipio,Provincia,Mes de origen ,Dia de origen,Mes de extincion,Dia extincion,Causas,Area Afectada en Tareas,Metros Cuadrados,Mes de origen .1,Fecha origen,Fecha Extincion,Fecha Mes
+0,1,Pedernales,Pedernales,Enero,5,Enero,7,Desconocida,665,418151.99999999994,1,01/05/2021,01/07/2021,Jan-2021
+1,2,Pedro Santana,Elías Piña,Enero,13,Enero,13,Conuquismo,95,59735.99999999999,1,01/13/2021,01/13/2021,Jan-2021
+2,3,Constanza,La Vega,Enero,3,Enero,3,Desconocida,1,628.8,1,01/03/2021,01/03/2021,Jan-2021
+3,4,SAJOMA,Santiago,Enero,16,Enero,16,Desconocida,45,28295.999999999996,1,01/16/2021,01/16/2021,Jan-2021
+4,5,La Vega,La Vega,Enero,15,Enero,15,Intencional,8,5030.4,1,01/15/2021,01/15/2021,Jan-2021
+5,6,Ocoa,Ocoa,Enero,17,Enero,18,Ganaderia,45,28295.999999999996,1,01/17/2021,01/18/2021,Jan-2021
+6,7,Padre Las Casas,Azua,Enero,18,Enero,18,Desconocida,20,12576.0,1,01/18/2021,01/18/2021,Jan-2021
+7,8,Restauracion ,Dajabon,Enero,23,Enero,23,No Intencional,35,22008.0,1,01/23/2021,01/23/2021,Jan-2021
+8,9,Restauracion ,Dajabon,Enero,25,Enero,25,Conuquismo,12,7545.599999999999,1,01/25/2021,01/25/2021,Jan-2021
+9,10,SAJOMA,Santiago,Enero,25,Enero,25,Desconocida,50,31439.999999999996,1,01/25/2021,01/25/2021,Jan-2021
+10,11,PNJCR,San Juan,Enero,27,Enero,28,Ganaderia,250,157200.0,1,01/27/2021,01/28/2021,Jan-2021
+11,12,Constanza,La Vega,Enero,27,Enero,27,Desconocida,15,9432.0,1,01/27/2021,01/27/2021,Jan-2021
+12,13,Moncion,Stgo. Rguez.,Enero,26,Enero,27,Desconocida,66,41500.799999999996,1,01/26/2021,01/27/2021,Jan-2021
+13,14,SAJOMA,Santiago,Enero,26,Enero,27,Ganaderia,70,44016.0,1,01/26/2021,01/27/2021,Jan-2021
+14,15,SAJOMA,Santiago,Enero,20,Enero,20,Intencional,5,3144.0,1,01/20/2021,01/20/2021,Jan-2021
+15,16,Pedernales,Pedernales,Enero,20,Enero,21,Carboneros,150,94320.0,1,01/20/2021,01/21/2021,Jan-2021
+16,17,Constanza,La Vega,Enero,24,Enero,24,Conuquismo,40,25152.0,1,01/24/2021,01/24/2021,Jan-2021
+17,18,Ocoa,Ocoa,Enero,24,Enero,25,Conuquismo,600,377280.0,1,01/24/2021,01/25/2021,Jan-2021
+18,19,PNJCR,San Juan,Enero,24,Enero,25,Ganaderia,250,157200.0,1,01/24/2021,01/25/2021,Jan-2021
+19,20,Jarabacoa,La Vega,Enero,18,Enero,18,Conuquismo,12,7545.599999999999,1,01/18/2021,01/18/2021,Jan-2021
+20,21,Constanza,La Vega,Febrero,2,Febrero,3,Caminantes,426,267868.8,2,02/02/2021,02/03/2021,Feb-2021
+21,22,Pedernales,Pedernales,Febrero,4,Febrero,5,Carboneros,200,125759.99999999999,2,02/04/2021,02/05/2021,Feb-2021
+22,23,Bonao,Mons. Nouel,Febrero,8,Febrero,8,Desconocida,40,25152.0,2,02/08/2021,02/08/2021,Feb-2021
+23,24,Restauracion ,Dajabon,Febrero,7,Febrero,7,Ganaderia,10,6288.0,2,02/07/2021,02/07/2021,Feb-2021
+24,25,Jarabacoa,La Vega,Febrero,9,Febrero,9,Conuquismo,8,5030.4,2,02/09/2021,02/09/2021,Feb-2021
+25,26,Jarabacoa,La Vega,Febrero,16,Febrero,16,Intencional,12,7545.599999999999,2,02/16/2021,02/16/2021,Feb-2021
+26,27,La Vega,La Vega,Febrero,15,Febrero,15,Descarga Electrica,4,2515.2,2,02/15/2021,02/15/2021,Feb-2021
+27,28,El Llano,Elías Piña,Febrero,19,Febrero,19,Conuquismo,50,31439.999999999996,2,02/19/2021,02/19/2021,Feb-2021
+28,29,El Llano,Elías Piña,Febrero,20,Febrero,20,Desconocida,50,31439.999999999996,2,02/20/2021,02/20/2021,Feb-2021
+29,30,Padre Las Casas,Azua,Febrero,22,Febrero,22,Caminantes,67,42129.6,2,02/22/2021,02/22/2021,Feb-2021
+30,31,Padre Las Casas,Azua,Febrero,23,Febrero,23,Conuquismo,80,50304.0,2,02/23/2021,02/23/2021,Feb-2021
+31,32,Pedernales,Pedernales,Febrero,22,Febrero,23,Conuquismo,200,125759.99999999999,2,02/22/2021,02/23/2021,Feb-2021
+32,33,Restauracion ,Dajabon,Febrero,17,Febrero,17,Desconocida,26,16348.8,2,02/17/2021,02/17/2021,Feb-2021
+33,34,Dajabon,Dajabon,Febrero,19,Febrero,19,Colmeneros,50,31439.999999999996,2,02/19/2021,02/19/2021,Feb-2021
+34,35,San Juan,San Juan,Febrero,24,Febrero,24,Conuquismo,600,377280.0,2,02/24/2021,02/24/2021,Feb-2021
+35,36,Descubierta,Independencia,Febrero,21,Febrero,21,Conuquismo,110,69168.0,2,02/21/2021,02/21/2021,Feb-2021
+36,37,Constanza,La Vega,Febrero,4,Febrero,4,Conuquismo,5,3144.0,2,02/04/2021,02/04/2021,Feb-2021
+37,38,Pedro Santana,Elías Piña,Febrero,25,Febrero,25,Conuquismo,100,62879.99999999999,2,02/25/2021,02/25/2021,Feb-2021
+38,39,Restauracion ,Dajabon,Febrero,19,Febrero,20,Desconocida,47,29553.6,2,02/19/2021,02/20/2021,Feb-2021
+39,40,Restauracion ,Dajabon,Febrero,25,Febrero,25,Desconocida,69,43387.2,2,02/25/2021,02/25/2021,Feb-2021
+40,41,Pedro Santana,Elías Piña,Febrero,28,Febrero,28,Caminantes,215,135192.0,2,02/28/2021,02/28/2021,Feb-2021
+41,42,Restauracion ,Dajabon,Febrero,20,Febrero,20,Conuquismo,206,129532.79999999999,2,02/20/2021,02/20/2021,Feb-2021
+42,43,San Juan,San Juan,Febrero,21,Febrero,22,Caminantes,76,47788.799999999996,2,02/21/2021,02/22/2021,Feb-2021
+43,44,Dajabon,Dajabon,Febrero,19,Febrero,19,Colmeneros,45,28295.999999999996,2,02/19/2021,02/19/2021,Feb-2021
+44,45,Dajabon,Dajabon,Febrero,26,Febrero,27,Conuquismo,20,12576.0,2,02/26/2021,02/27/2021,Feb-2021
+45,46,Dajabon,Dajabon,Febrero,28,Febrero,28,Ganaderia,60,37728.0,2,02/28/2021,02/28/2021,Feb-2021
+46,47,Partido,Dajabon,Febrero,26,Febrero,26,Conuquismo,25,15719.999999999998,2,02/26/2021,02/26/2021,Feb-2021
+47,48,San Juan,San Juan,Febrero,7,Febrero,8,Conuquismo,50,31439.999999999996,2,02/07/2021,02/08/2021,Feb-2021
+48,49,San Juan,San Juan,Febrero,26,Febrero,27,Conuquismo,150,94320.0,2,02/26/2021,02/27/2021,Feb-2021
+49,50,San Juan,San Juan,Febrero,7,Febrero,8,Conuquismo,70,44016.0,2,02/07/2021,02/08/2021,Feb-2021
+50,51,San Juan,San Juan,Febrero,12,Febrero,13,Conuquismo,25,15719.999999999998,2,02/12/2021,02/13/2021,Feb-2021
+51,52,San Juan,San Juan,Febrero,27,Febrero,28,Conuquismo,100,62879.99999999999,2,02/27/2021,02/28/2021,Feb-2021
+52,53,San Juan,San Juan,Febrero,20,Febrero,20,Conuquismo,100,62879.99999999999,2,02/20/2021,02/20/2021,Feb-2021
+53,54,Moncion,Stgo. Rguez.,Febrero,26,Febrero,26,Conuquismo,17,10689.599999999999,2,02/26/2021,02/26/2021,Feb-2021
+54,55,Pedernales,Pedernales,Febrero,27,Marzo,4,Conuquismo,16960,10664448.0,2,02/27/2021,02/04/2021,Feb-2021
+55,56,Pedernales,Pedernales,Febrero,26,Marzo,4,Conuquismo,2080,1307904.0,2,02/26/2021,02/04/2021,Feb-2021
+56,57,Piedra Blanca,Mons. Nouel,Marzo,8,Marzo,4,Ganaderia,60,37728.0,3,03/08/2021,03/04/2021,Mar-2021
+57,58,Villa Altagracia,San Cristobal,Marzo,6,Marzo,6,Conuquismo,30,18864.0,3,03/06/2021,03/06/2021,Mar-2021
+58,59,Villa Altagracia,San Cristobal,Marzo,7,Marzo,8,Conuquismo,60,37728.0,3,03/07/2021,03/08/2021,Mar-2021
+59,60,Pedernales,Pedernales,Marzo,3,Marzo,3,Carboneros,20,12576.0,3,03/03/2021,03/03/2021,Mar-2021
+60,61,Restauracion ,Dajabon,Marzo,3,Marzo,3,Conuquismo,8,5030.4,3,03/03/2021,03/03/2021,Mar-2021
+61,62,Pedro Santana,Elías Piña,Marzo,5,Marzo,5,Conuquismo,389,244603.19999999998,3,03/05/2021,03/05/2021,Mar-2021
+62,63,Restauracion ,Elías Piña,Marzo,5,Marzo,5,Conuquismo,150,94320.0,3,03/05/2021,03/05/2021,Mar-2021
+63,64,San Juan,Elías Piña,Febrero,28,Marzo,2,Colmeneros,800,503039.99999999994,2,02/28/2021,02/02/2021,Feb-2021
+64,65,San Juan,Elías Piña,Marzo,3,Marzo,3,Conuquismo,116,72940.79999999999,3,03/03/2021,03/03/2021,Mar-2021
+65,66,San Juan,Elías Piña,Marzo,1,Marzo,2,Conuquismo,300,188640.0,3,03/01/2021,03/02/2021,Mar-2021
+66,67,San Juan,Elías Piña,Marzo,5,Marzo,5,Intencional,72,45273.6,3,03/05/2021,03/05/2021,Mar-2021
+67,68,Dajabon,Elías Piña,Marzo,5,Marzo,5,Carboneros,75,47160.0,3,03/05/2021,03/05/2021,Mar-2021
+68,69,Partido,Elías Piña,Marzo,2,Marzo,2,Intencional,10,6288.0,3,03/02/2021,03/02/2021,Mar-2021
+69,70,El Cercado,Elías Piña,Marzo,3,Marzo,4,Conuquismo,200,125759.99999999999,3,03/03/2021,03/04/2021,Mar-2021
+70,71,Comendador,Elías Piña,Marzo,4,Marzo,4,Intencional,180,113183.99999999999,3,03/04/2021,03/04/2021,Mar-2021
+71,72,El Cercado,Elías Piña,Marzo,2,Marzo,3,Conuquismo,100,62879.99999999999,3,03/02/2021,03/03/2021,Mar-2021
+72,73,San Juan,Elías Piña,Marzo,4,Marzo,5,Conuquismo,180,113183.99999999999,3,03/04/2021,03/05/2021,Mar-2021
+73,74,Padre Las Casas,Elías Piña,Marzo,10,Marzo,10,Conuquismo,15,9432.0,3,03/10/2021,03/10/2021,Mar-2021
+74,75,Padre Las Casas,Elías Piña,Marzo,9,Marzo,10,Conuquismo,115,72312.0,3,03/09/2021,03/10/2021,Mar-2021
+75,76,Padre Las Casas,Elías Piña,Marzo,3,Marzo,3,Conuquismo,200,125759.99999999999,3,03/03/2021,03/03/2021,Mar-2021
+76,77,Padre Las Casas,Elías Piña,Marzo,4,Marzo,5,Conuquismo,115,72312.0,3,03/04/2021,03/05/2021,Mar-2021
+77,78,Sabaneta,Elías Piña,Marzo,8,Marzo,8,Conuquismo,42,26409.6,3,03/08/2021,03/08/2021,Mar-2021
+78,79,Sabaneta,Elías Piña,Marzo,5,Marzo,5,Conuquismo,16,10060.8,3,03/05/2021,03/05/2021,Mar-2021
+79,80,Sabaneta,Elías Piña,Marzo,5,Marzo,6,Conuquismo,35,22008.0,3,03/05/2021,03/06/2021,Mar-2021
+80,81,Moncion,Elías Piña,Marzo,1,Marzo,1,Conuquismo,79,49675.2,3,03/01/2021,03/01/2021,Mar-2021
+81,82,Moncion,Elías Piña,Marzo,3,Marzo,3,Conuquismo,89,55963.2,3,03/03/2021,03/03/2021,Mar-2021
+82,83,San Juan,Elías Piña,Marzo,2,Marzo,3,Conuquismo,230,144624.0,3,03/02/2021,03/03/2021,Mar-2021
+83,84,Padre Las Casas,Elías Piña,Marzo,4,Marzo,4,Conuquismo,220,138336.0,3,03/04/2021,03/04/2021,Mar-2021
+84,85,Restauracion ,Elías Piña,Marzo,16,Marzo,16,Intencional,70,44016.0,3,03/16/2021,03/16/2021,Mar-2021
+85,86,Dajabon,Elías Piña,Marzo,16,Marzo,16,Quema de Basura,10,6288.0,3,03/16/2021,03/16/2021,Mar-2021
+86,87,Padre Las Casas,Elías Piña,Marzo,16,Marzo,17,Conuquismo,1000,628800.0,3,03/16/2021,03/17/2021,Mar-2021
+87,88,Padre Las Casas,Elías Piña,Marzo,16,Marzo,17,Conuquismo,1200,754560.0,3,03/16/2021,03/17/2021,Mar-2021
+88,89,San Juan,Elías Piña,Marzo,16,Marzo,17,Conuquismo,120,75456.0,3,03/16/2021,03/17/2021,Mar-2021
+89,90,San Juan,Elías Piña,Marzo,16,Marzo,17,Conuquismo,100,62879.99999999999,3,03/16/2021,03/17/2021,Mar-2021
+90,91,San Juan,Elías Piña,Marzo,20,Marzo,21,Ganaderia,100,62879.99999999999,3,03/20/2021,03/21/2021,Mar-2021
+91,92,San Juan,Elías Piña,Marzo,21,Marzo,21,Intencional,25,15719.999999999998,3,03/21/2021,03/21/2021,Mar-2021
+92,93,San Juan,Elías Piña,Marzo,2,Marzo,3,Conuquismo,50,31439.999999999996,3,03/02/2021,03/03/2021,Mar-2021
+93,94,San Juan,Elías Piña,Marzo,2,Marzo,3,Intencional,80,50304.0,3,03/02/2021,03/03/2021,Mar-2021
+94,95,San Juan,Elías Piña,Marzo,19,Marzo,19,Conuquismo,65,40872.0,3,03/19/2021,03/19/2021,Mar-2021
+95,96,Villa Altagracia,Elías Piña,Marzo,20,Marzo,20,Conuquismo,40,25152.0,3,03/20/2021,03/20/2021,Mar-2021
+96,97,Constanza,Elías Piña,Marzo,19,Marzo,19,Conuquismo,25,15719.999999999998,3,03/19/2021,03/19/2021,Mar-2021
+97,98,Villa Altagracia,Elías Piña,Marzo,21,Marzo,22,Conuquismo,80,50304.0,3,03/21/2021,03/22/2021,Mar-2021
+98,99,Padre Las Casas,Elías Piña,Marzo,15,Marzo,15,Desconocida,70,44016.0,3,03/15/2021,03/15/2021,Mar-2021
+99,100,Constanza,Elías Piña,Marzo,26,Marzo,27,Ganaderia,134,84259.2,3,03/26/2021,03/27/2021,Mar-2021
+100,101,Padre Las Casas,Elías Piña,Marzo,26,Marzo,26,Conuquismo,200,125759.99999999999,3,03/26/2021,03/26/2021,Mar-2021
+101,102,Pedernales,Elías Piña,Marzo,29,Marzo,30,Conuquismo,80,50304.0,3,03/29/2021,03/30/2021,Mar-2021
+102,103,Restauracion ,Elías Piña,Marzo,28,Marzo,28,Conuquismo,100,62879.99999999999,3,03/28/2021,03/28/2021,Mar-2021
+103,104,Restauracion ,Elías Piña,Marzo,29,Marzo,29,Conuquismo,50,31439.999999999996,3,03/29/2021,03/29/2021,Mar-2021
+104,105,SAJOMA,Elías Piña,Marzo,28,Marzo,29,Ganaderia,55,34584.0,3,03/28/2021,03/29/2021,Mar-2021
+105,106,Constanza,Elías Piña,Marzo,26,Marzo,27,Ganaderia,160,100608.0,3,03/26/2021,03/27/2021,Mar-2021
+106,107,Duverge,Elías Piña,Marzo,31,Abril,2,Desconocida,16,10060.8,3,03/31/2021,03/02/2021,Mar-2021
+107,108,San Juan,Elías Piña,Abril,3,Abril,3,Conuquismo,45,28295.999999999996,4,04/03/2021,04/03/2021,Apr-2021
+108,109,Padre Las Casas,Elías Piña,Marzo,30,Abril,1,Conuquismo,1600,1006079.9999999999,3,03/30/2021,03/01/2021,Mar-2021
+109,110,SAJOMA,Elías Piña,Abril,1,Abril,2,Ganaderia,117,73569.59999999999,4,04/01/2021,04/02/2021,Apr-2021
+110,111,Ocoa,Elías Piña,Abril,18,Abril,18,Ganaderia,25,15719.999999999998,4,04/18/2021,04/18/2021,Apr-2021
+111,112,Pedro Santana,Elías Piña,Abril,18,Abril,18,Conuquismo,20,12576.0,4,04/18/2021,04/18/2021,Apr-2021
+112,113,Pedro Santana,Elías Piña,Abril,18,Abril,18,Conuquismo,15,9432.0,4,04/18/2021,04/18/2021,Apr-2021
+113,114,La Vega,Elías Piña,Abril,15,Abril,15,Intencional,12,7545.599999999999,4,04/15/2021,04/15/2021,Apr-2021
+114,115,Moncion,Elías Piña,Abril,24,Abril,25,Intencional,76,47788.799999999996,4,04/24/2021,04/25/2021,Apr-2021
+115,116,Moncion,Elías Piña,Abril,24,Abril,25,Intencional,120,75456.0,4,04/24/2021,04/25/2021,Apr-2021
+116,117,Moncion,Elías Piña,Abril,24,Abril,26,Intencional,390,245231.99999999997,4,04/24/2021,04/26/2021,Apr-2021
+117,118,Duverge,Elías Piña,Abril,21,Abril,23,Intencional,1466,921820.7999999999,4,04/21/2021,04/23/2021,Apr-2021
+118,119,La Vega,Elías Piña,Abril,21,Abril,21,Descarga Electrica,30,18864.0,4,04/21/2021,04/21/2021,Apr-2021
+119,120,San Juan,Elías Piña,Abril,22,Abril,22,Conuquismo,40,25152.0,4,04/22/2021,04/22/2021,Apr-2021
+120,121,San Juan,Elías Piña,Abril,20,Abril,21,Conuquismo,150,94320.0,4,04/20/2021,04/21/2021,Apr-2021
+121,122,Pedro Santana,Elías Piña,Abril,9,Abril,10,Conuquismo,200,125759.99999999999,4,04/09/2021,04/10/2021,Apr-2021
+122,123,Pedro Santana,Elías Piña,Abril,13,Abril,14,Intencional,400,251519.99999999997,4,04/13/2021,04/14/2021,Apr-2021
+123,124,Banica,Elías Piña,Abril,18,Abril,18,Intencional,12,7545.599999999999,4,04/18/2021,04/18/2021,Apr-2021
+124,125,Restauracion ,Elías Piña,Abril,15,Abril,15,Conuquismo,25,15719.999999999998,4,04/15/2021,04/15/2021,Apr-2021
+125,126,Restauracion ,Elías Piña,Abril,15,Abril,17,Conuquismo,350,220079.99999999997,4,04/15/2021,04/17/2021,Apr-2021
+126,127,SAJOMA,Elías Piña,Abril,24,Abril,25,Desconocida,53,33326.399999999994,4,04/24/2021,04/25/2021,Apr-2021
+127,128,SAJOMA,Elías Piña,Abril,1,Abril,1,Ganaderia,116,72940.79999999999,4,04/01/2021,04/01/2021,Apr-2021
+128,129,La Vega,Elías Piña,Abril,24,Abril,24,Desconocida,25,15719.999999999998,4,04/24/2021,04/24/2021,Apr-2021
+129,130,Ocoa,Elías Piña,Abril,23,Abril,24,Conuquismo,250,157200.0,4,04/23/2021,04/24/2021,Apr-2021
+130,131,San Juan,Elías Piña,Abril,21,Abril,22,Conuquismo,120,75456.0,4,04/21/2021,04/22/2021,Apr-2021
+131,132,San Juan,Elías Piña,Abril,19,Abril,21,Conuquismo,150,94320.0,4,04/19/2021,04/21/2021,Apr-2021
+132,133,San Juan,Elías Piña,Abril,17,Abril,20,Intencional,150,94320.0,4,04/17/2021,04/20/2021,Apr-2021
+133,134,San Juan,Elías Piña,Abril,11,Abril,13,Conuquismo,115,72312.0,4,04/11/2021,04/13/2021,Apr-2021
+134,135,Sabaneta,Elías Piña,Abril,19,Abril,19,Conuquismo,45,28295.999999999996,4,04/19/2021,04/19/2021,Apr-2021
+135,136,Sabaneta,Elías Piña,Abril,21,Abril,22,Conuquismo,200,125759.99999999999,4,04/21/2021,04/22/2021,Apr-2021
+136,137,Sabaneta,Elías Piña,Abril,10,Abril,10,Conuquismo,30,18864.0,4,04/10/2021,04/10/2021,Apr-2021
+137,138,San Juan,Elías Piña,Abril,13,Abril,14,Conuquismo,300,188640.0,4,04/13/2021,04/14/2021,Apr-2021
+138,139,Bonao,Elías Piña,Abril,24,Abril,24,Ganaderia,70,44016.0,4,04/24/2021,04/24/2021,Apr-2021
+139,140,Bonao,Elías Piña,Abril,25,Abril,25,Conuquismo,40,25152.0,4,04/25/2021,04/25/2021,Apr-2021
+140,141,Bonao,Elías Piña,Abril,26,Abril,26,Conuquismo,20,12576.0,4,04/26/2021,04/26/2021,Apr-2021
+141,142,SAJOMA,Elías Piña,Abril,12,Abril,12,Conuquismo,5,3144.0,4,04/12/2021,04/12/2021,Apr-2021
+142,143,Restauracion ,Elías Piña,Abril,20,Abril,20,Conuquismo,20,12576.0,4,04/20/2021,04/20/2021,Apr-2021
+143,144,Partido,Elías Piña,Abril,2,Abril,2,Conuquismo,60,37728.0,4,04/02/2021,04/02/2021,Apr-2021
+144,145,Jarabacoa,Elías Piña,Mayo,6,Mayo,6,No Intencional,124,77971.2,5,05/06/2021,05/06/2021,May-2021
+145,146,La Vega,Elías Piña,Mayo,7,Mayo,7,Desconocida,17,10689.599999999999,5,05/07/2021,05/07/2021,May-2021
+146,147,Bonao,Elías Piña,Mayo,5,Mayo,8,Huelguistas,125,78600.0,5,05/05/2021,05/08/2021,May-2021
+147,148,Ocoa,Elías Piña,Mayo,8,Mayo,9,Conuquismo,90,56591.99999999999,5,05/08/2021,05/09/2021,May-2021
+148,149,Jarabacoa,Elías Piña,Mayo,10,Mayo,10,Conuquismo,10,6288.0,5,05/10/2021,05/10/2021,May-2021
+149,150,Galvan,Elías Piña,Mayo,10,Mayo,10,Quema de Basura,110,69168.0,5,05/10/2021,05/10/2021,May-2021
+150,151,Sabaneta,Elías Piña,Mayo,1,Mayo,1,Conuquismo,40,25152.0,5,05/01/2021,05/01/2021,May-2021
+151,152,Hondo Valle,Elías Piña,Mayo,2,Mayo,2,Conuquismo,60,37728.0,5,05/02/2021,05/02/2021,May-2021
+152,153,Hondo Valle,Elías Piña,Mayo,3,Mayo,3,Conuquismo,60,37728.0,5,05/03/2021,05/03/2021,May-2021
+153,154,Hondo Valle,Elías Piña,Mayo,2,Mayo,2,Conuquismo,65,40872.0,5,05/02/2021,05/02/2021,May-2021
+154,155,Constanza,Elías Piña,Mayo,9,Mayo,9,Conuquismo,20,12576.0,5,05/09/2021,05/09/2021,May-2021
+155,156,Padre Las Casas,Elías Piña,Mayo,2,Mayo,3,Conuquismo,500,314400.0,5,05/02/2021,05/03/2021,May-2021
+156,157,Padre Las Casas,Elías Piña,Mayo,2,Mayo,2,Conuquismo,60,37728.0,5,05/02/2021,05/02/2021,May-2021
+157,158,Padre Las Casas,Elías Piña,Mayo,3,Mayo,3,Conuquismo,60,37728.0,5,05/03/2021,05/03/2021,May-2021
+158,159,Villa Altagracia,Elías Piña,Mayo,16,Mayo,16,Conuquismo,15,9432.0,5,05/16/2021,05/16/2021,May-2021
+159,160,Constanza,Elías Piña,Mayo,16,Mayo,16,Conuquismo,25,15719.999999999998,5,05/16/2021,05/16/2021,May-2021
+160,161,Loma de Cabrera,Elías Piña,Mayo,15,Mayo,15,Conuquismo,15,9432.0,5,05/15/2021,05/15/2021,May-2021
+161,162,Janico,Elías Piña,Mayo,14,Mayo,15,Ganaderia,40,25152.0,5,05/14/2021,05/15/2021,May-2021
+162,163,SAJOMA,Elías Piña,Mayo,15,Mayo,15,Ganaderia,12,7545.599999999999,5,05/15/2021,05/15/2021,May-2021
+163,164,Loma de Cabrera,Elías Piña,Mayo,14,Mayo,14,Conuquismo,20,12576.0,5,05/14/2021,05/14/2021,May-2021
+164,165,Duverge,Elías Piña,Mayo,14,Mayo,15,Conuquismo,35,22008.0,5,05/14/2021,05/15/2021,May-2021
+165,166,Ocoa,Elías Piña,Mayo,6,Mayo,6,Ganaderia,12,7545.599999999999,5,05/06/2021,05/06/2021,May-2021
+166,167,Bonao,Elías Piña,Mayo,15,Mayo,15,Conuquismo,10,6288.0,5,05/15/2021,05/15/2021,May-2021
+167,168,Bonao,Elías Piña,Mayo,18,Mayo,18,Conuquismo,40,25152.0,5,05/18/2021,05/18/2021,May-2021
+168,169,Constanza,Elías Piña,Mayo,17,Mayo,17,Conuquismo,20,12576.0,5,05/17/2021,05/17/2021,May-2021
+169,170,Janico,Elías Piña,Mayo,17,Mayo,17,Ganaderia,15,9432.0,5,05/17/2021,05/17/2021,May-2021
+170,171,Azua,Elías Piña,Mayo,24,Mayo,26,Intencional,20,12576.0,5,05/24/2021,05/26/2021,May-2021
+171,172,Pepillo Salcedo,Elías Piña,Junio,19,Junio,19,Desconocida,200,125759.99999999999,6,06/19/2021,06/19/2021,Jun-2021
+172,173,Moncion,Elías Piña,Junio,28,Junio,28,Conuquismo,50,31439.999999999996,6,06/28/2021,06/28/2021,Jun-2021
+173,174,SAJOMA,Elías Piña,Junio,29,Junio,29,Caminantes,5,3144.0,6,06/29/2021,06/29/2021,Jun-2021
+174,175,SAJOMA,Elías Piña,Junio,25,Junio,26,Intencional,45,28295.999999999996,6,06/25/2021,06/26/2021,Jun-2021
+175,176,Barahona,Elías Piña,Junio,25,Junio,26,Conuquismo,100,62879.99999999999,6,06/25/2021,06/26/2021,Jun-2021
+176,177,Constanza,Elías Piña,Julio ,1,Julio ,2,Conuquismo,35,22008.0,7,07/01/2021,07/02/2021,Jul-2021
+177,178,Moncion,Elías Piña,Julio ,1,Julio ,2,Intencional,40,25152.0,7,07/01/2021,07/02/2021,Jul-2021
+178,179,Luperon,Elías Piña,Julio ,6,Julio ,6,Conuquismo,100,62879.99999999999,7,07/06/2021,07/06/2021,Jul-2021
+179,180,Moncion,Elías Piña,Julio ,13,Julio ,13,Conuquismo,40,25152.0,7,07/13/2021,07/13/2021,Jul-2021
+180,181,Jarabacoa,Elías Piña,Julio ,9,Julio ,9,Conuquismo,150,94320.0,7,07/09/2021,07/09/2021,Jul-2021
+181,182,Constanza,Elías Piña,Julio ,17,Julio ,17,Desconocida,15,9432.0,7,07/17/2021,07/17/2021,Jul-2021
+182,183,Moncion,Elías Piña,Julio ,13,Julio ,13,Ganaderia,18,11318.4,7,07/13/2021,07/13/2021,Jul-2021
+183,184,Hondo Valle,Elías Piña,Julio ,21,Julio ,21,Conuquismo,80,50304.0,7,07/21/2021,07/21/2021,Jul-2021
+184,185,Moncion,Elías Piña,Julio ,26,Julio ,26,Intencional,53,33326.399999999994,7,07/26/2021,07/26/2021,Jul-2021
+185,186,Oviedo,Elías Piña,Julio ,31,agosto,1,Intencional,30,18864.0,7,07/31/2021,07/01/2021,Jul-2021
+186,187,SAJOMA,Elías Piña,Agosto,3,Agosto,3,Conuquismo,20,12576.0,8,08/03/2021,08/03/2021,Aug-2021
+187,188,Constanza,Elías Piña,Agosto,7,Agosto,7,Intencional,50,31439.999999999996,8,08/07/2021,08/07/2021,Aug-2021
+188,189,Moncion,Elías Piña,Agosto,6,Agosto,6,Conuquismo,10,6288.0,8,08/06/2021,08/06/2021,Aug-2021
+189,190,Restauracion ,Elías Piña,Agosto,14,Agosto,15,Conuquismo,150,94320.0,8,08/14/2021,08/15/2021,Aug-2021
+190,191,Duverge,Elías Piña,Agosto,14,Agosto,15,Descarga Electrica,200,125759.99999999999,8,08/14/2021,08/15/2021,Aug-2021
+191,192,Duverge,Elías Piña,Agosto,14,Agosto,15,Descarga Electrica,150,94320.0,8,08/14/2021,08/15/2021,Aug-2021
+192,193,Padre Las Casas,Elías Piña,Agosto,14,Agosto,15,Descarga Electrica,50,31439.999999999996,8,08/14/2021,08/15/2021,Aug-2021
+193,194,Sabaneta,Elías Piña,Agosto,15,Agosto,16,Desconocida,125,78600.0,8,08/15/2021,08/16/2021,Aug-2021
+194,195,SAJOMA,Elías Piña,Agosto,21,Agosto,23,Ganaderia,270,169776.0,8,08/21/2021,08/23/2021,Aug-2021
+195,196,Sabaneta,Elías Piña,Agosto,22,Agosto,22,Conuquismo,37,23265.6,8,08/22/2021,08/22/2021,Aug-2021
+196,197,Dajabon,Elías Piña,Agosto,25,Agosto,26,Intencional,60,37728.0,8,08/25/2021,08/26/2021,Aug-2021
+197,198,SAJOMA,Elías Piña,Agosto,24,Agosto,24,Desconocida,16,10060.8,8,08/24/2021,08/24/2021,Aug-2021
+198,199,Janico,Elías Piña,Agosto,18,Agosto,19,Intencional,60,37728.0,8,08/18/2021,08/19/2021,Aug-2021
+199,200,SAJOMA,Elías Piña,Agosto,27,Agosto,27,Conuquismo,40,25152.0,8,08/27/2021,08/27/2021,Aug-2021
+200,201,Pedro Santana,Elías Piña,Agosto,27,Agosto,26,Conuquismo,50,31439.999999999996,8,08/27/2021,08/26/2021,Aug-2021
+201,202,Padre Las Casas,Elías Piña,Agosto,10,Agosto,10,Conuquismo,40,25152.0,8,08/10/2021,08/10/2021,Aug-2021
+202,203,Padre Las Casas,Elías Piña,Agosto,14,Agosto,14,Conuquismo,50,31439.999999999996,8,08/14/2021,08/14/2021,Aug-2021
+203,204,Constanza,Elías Piña,Agosto,29,Agosto,30,Intencional,378,237686.4,8,08/29/2021,08/30/2021,Aug-2021
+204,205,Constanza,Elías Piña,Agosto,29,Agosto,29,Conuquismo,40,25152.0,8,08/29/2021,08/29/2021,Aug-2021
+205,206,Sabaneta,Elías Piña,Agosto,29,Agosto,30,Conuquismo,200,125759.99999999999,8,08/29/2021,08/30/2021,Aug-2021
+206,207,Ocoa,Elías Piña,Agosto,28,Agosto,29,Conuquismo,300,188640.0,8,08/28/2021,08/29/2021,Aug-2021
+207,208,Padre Las Casas,Elías Piña,Agosto,29,Agosto,30,Conuquismo,150,94320.0,8,08/29/2021,08/30/2021,Aug-2021
+208,209,Moncion,Elías Piña,Agosto,29,Agosto,29,Descarga Electrica,50,31439.999999999996,8,08/29/2021,08/29/2021,Aug-2021
+209,210,Hondo Valle,Elías Piña,Agosto,30,Agosto,30,Desconocida,220,138336.0,8,08/30/2021,08/30/2021,Aug-2021
+210,211,Constanza,Elías Piña,Agosto,6,Agosto,6,Conuquismo,8,5030.4,8,08/06/2021,08/06/2021,Aug-2021
+211,212,Constanza,Elías Piña,Agosto,4,Agosto,4,Conuquismo,4,2515.2,8,08/04/2021,08/04/2021,Aug-2021
+212,213,Constanza,Elías Piña,Agosto,29,Agosto,29,Conuquismo,20,12576.0,8,08/29/2021,08/29/2021,Aug-2021
+213,214,Moncion,Elías Piña,Agosto,31,Septiembre,1,Intencional,50,31439.999999999996,8,08/31/2021,08/01/2021,Aug-2021
+214,215,Moncion,Elías Piña,Agosto,31,Agosto,31,Descarga Electrica,30,18864.0,8,08/31/2021,08/31/2021,Aug-2021
+215,216,La Descubierta,Elías Piña,Agosto,29,Agosto,29,Desconocida,800,503039.99999999994,8,08/29/2021,08/29/2021,Aug-2021
+216,217,Constanza,Elías Piña,Septiembre,4,Septiembre,7,Ganaderia,1166,733180.7999999999,9,09/04/2021,09/07/2021,Sep-2021
+217,218,Dajabon,Elías Piña,Septiembre,7,Septiembre,7,Conuquismo,30,18864.0,9,09/07/2021,09/07/2021,Sep-2021
+218,219,Moncion,Elías Piña,Septiembre,8,Septiembre,8,Ganaderia,15,9432.0,9,09/08/2021,09/08/2021,Sep-2021
+219,220,La Vega,Elías Piña,Septiembre,8,Septiembre,8,Conuquismo,20,12576.0,9,09/08/2021,09/08/2021,Sep-2021
+220,221,Padre Las Casas,Elías Piña,Septiembre,8,Septiembre,8,Conuquismo,60,37728.0,9,09/08/2021,09/08/2021,Sep-2021
+221,222,Dajabon,Elías Piña,Septiembre,8,Septiembre,9,Invasores,60,37728.0,9,09/08/2021,09/09/2021,Sep-2021
+222,223,La Vega,Elías Piña,Septiembre,8,Septiembre,8,Desconocida,25,15719.999999999998,9,09/08/2021,09/08/2021,Sep-2021
+223,224,La Vega,Elías Piña,Septiembre,8,Septiembre,8,Conuquismo,20,12576.0,9,09/08/2021,09/08/2021,Sep-2021
+224,225,Puerto Plata,Elías Piña,Septiembre,8,Septiembre,8,Ganaderia,40,25152.0,9,09/08/2021,09/08/2021,Sep-2021
+225,226,Janico,Elías Piña,Septiembre,6,Septiembre,8,Ganaderia,50,31439.999999999996,9,09/06/2021,09/08/2021,Sep-2021
+226,227,Pedernales,Elías Piña,Septiembre,15,Septiembre,21,Descarga Electrica,27200,17103360.0,9,09/15/2021,09/21/2021,Sep-2021
+227,228,Sabaneta,Elías Piña,Octubre,1,Octubre,1,Desconocida,6,3772.7999999999997,10,10/01/2021,10/01/2021,Oct-2021
+228,229,Bonao,Elías Piña,Octubre,25,Octubre,25,Desconocida,15,9432.0,10,10/25/2021,10/25/2021,Oct-2021
+229,230,Bonao,Elías Piña,Noviembre,5,Noviembre,5,Conuquismo,30,18864.0,11,11/05/2021,11/05/2021,Nov-2021
+230,231,Bonao,Elías Piña,Noviembre,5,Noviembre,5,Conuquismo,15,9432.0,11,11/05/2021,11/05/2021,Nov-2021
+231,232,Jarabacoa,Elías Piña,Noviembre,4,Noviembre,4,Conuquismo,25,15719.999999999998,11,11/04/2021,11/04/2021,Nov-2021
+232,233,Bonao,Elías Piña,Noviembre,9,Noviembre,9,Desconocida,35,22008.0,11,11/09/2021,11/09/2021,Nov-2021
+233,234,Constanza,Elías Piña,Noviembre,19,Noviembre,19,Desconocida,12,7545.599999999999,11,11/19/2021,11/19/2021,Nov-2021
+234,235,Constanza,Elías Piña,Noviembre,20,Noviembre,20,Conuquismo,50,31439.999999999996,11,11/20/2021,11/20/2021,Nov-2021
+235,236,Constanza,Elías Piña,Noviembre,22,Noviembre,22,Conuquismo,45,28295.999999999996,11,11/22/2021,11/22/2021,Nov-2021
+236,237,Pedro Santana,Elías Piña,Noviembre,26,Noviembre,26,Conuquismo,15,9432.0,11,11/26/2021,11/26/2021,Nov-2021
+237,238,Puñal,Santiago,Noviembre,24,Noviembre,24,Ganaderia,266,167260.8,11,11/24/2021,11/24/2021,Nov-2021
+238,239,Jarabacoa,La Vega,Noviembre,1,Noviembre,1,Conuquismo,5,3144.0,11,11/01/2021,11/01/2021,Nov-2021
+239,240,Jarabacoa,La Vega,Noviembre,1,Noviembre,1,Desconocida,5,3144.0,11,11/01/2021,11/01/2021,Nov-2021
+240,241,Constanza,La Vega,Noviembre,13,Noviembre,14,Conuquismo,45,28295.999999999996,11,11/13/2021,11/14/2021,Nov-2021
+241,242,Constanza,La Vega,Noviembre,1,Noviembre,1,Conuquismo,10,6288.0,11,11/01/2021,11/01/2021,Nov-2021
+242,243,Pedernales,Pedernales,Diciembre,14,Diciembre,15,Carboneros,300,188640.0,12,12/14/2021,12/15/2021,Dec-2021
+243,244,Restauracion ,Dajabon,Diciembre,12,Diciembre,12,Desconocida,20,12576.0,12,12/12/2021,12/12/2021,Dec-2021
+244,245,Moncion,Stgo. Rguez.,Diciembre,20,Diciembre,20,Desconocida,15,9432.0,12,12/20/2021,12/20/2021,Dec-2021
+245,246,Restauracion ,Dajabon,Diciembre,19,Diciembre,19,Quema de Basura,8,5030.4,12,12/19/2021,12/19/2021,Dec-2021
+246,247,Moncion,Stgo. Rguez.,Diciembre,17,Diciembre,17,Desconocida,15,9432.0,12,12/17/2021,12/17/2021,Dec-2021
+247,248,Sabaneta,Stgo. Rguez.,Diciembre,18,Diciembre,18,Desconocida,25,15719.999999999998,12,12/18/2021,12/18/2021,Dec-2021
+248,249,Moncion,Stgo. Rguez.,Diciembre,20,Diciembre,20,Desconocida,10,6288.0,12,12/20/2021,12/20/2021,Dec-2021
+249,250,Veron,La Altagracia,Diciembre,21,Diciembre,22,Desconocida,745,468455.99999999994,12,12/21/2021,12/22/2021,Dec-2021
